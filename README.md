@@ -3,6 +3,13 @@
 Proyecto final de Argentina Programa: es una aplicación de escritorio desarrollada en Java, con conexión a base de datos MySQL/MariaDB usando  JDBC (Java Database Connectivity), diseñada para la gestión completa de un restaurante.
 Incluye funcionalidades para el manejo de mesas, productos, pedidos y empleados.
 
+![mesas](https://github.com/user-attachments/assets/b42a84d5-4c41-4ec8-9274-5549e3e6011f)
+
+
+📊 Tablas
+
+![tablas](https://github.com/user-attachments/assets/e1eec088-9a86-488b-b129-ecfc0863e730)
+
 🧑‍💻 Tecnologías utilizadas
 
  - Lenguaje: Java
@@ -32,3 +39,5 @@ Librerías externas:
 - Panel administrativo para modificar datos de empleados.
 
 - Diseño modular para facilitar el mantenimiento y la expansión.
+
+  
